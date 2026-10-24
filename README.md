@@ -1,4 +1,4 @@
-TrustVault
+#TrustVault
 
 A document platform where the wrong person cannot reach a file, and where you can prove who did.
 Flask + PostgreSQL (RDS) + S3, deployed on EC2 inside a VPC. Written for the TrustVault challenge.
